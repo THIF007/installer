@@ -53,4 +53,4 @@ echo ""
 echo -e "${YELLOW}Please restart Termux to apply changes.${NC}"
 
 cd ~
-rm -f "$INSTALLER_DIR/install.sh"
+rm -f "$INSTALLER_DIR/installer"
